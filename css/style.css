@@ -1,0 +1,84 @@
+@media (max-width:768px) {
+  .style0,
+  .style1,
+  .style2,
+  .style3 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .style0,
+  .style1,
+  .style2,
+  .style3 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 102px;
+    margin-top: 102px;
+    width: 205px;
+    height: 205px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .style0,
+  .style1,
+  .style2,
+  .style3 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 123px;
+    margin-top: 123px;
+    width: 245px;
+    height: 245px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+}
+@media (min-width:1200px) {
+  .style0,
+  .style1,
+  .style2,
+  .style3 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 160px;
+    margin-top: 160px;
+    width: 320px;
+    height: 320px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+}
